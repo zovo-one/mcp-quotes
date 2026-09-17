@@ -1,6 +1,6 @@
 {
   "name": "mcp-quotes",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "MCP server for price quotes, estimates and proposals: create a quote or an estimate for a customer. Priced, VAT-correct quotes from chat, and the yes turns into an invoice.",
   "settings": [
     {
