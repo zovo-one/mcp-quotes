@@ -254,3 +254,5 @@ All data stays local: plain JSON files in your own data directory. No account, n
 of any kind. License keys are verified offline.
 
 Built by [theluckystrike](https://github.com/theluckystrike). Support: support@zovo.one
+
+**Listed on the [AI Product Index](https://index.percall.dev/l/zovo-quotes.html)** — live remote endpoint at [mcp.zovo.one/s/quotes](https://mcp.zovo.one/s/quotes), free tier, no signup.
