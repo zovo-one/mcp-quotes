@@ -1,7 +1,7 @@
 {
   "name": "mcp-quotes",
-  "version": "0.22.0",
-  "description": "MCP server for price quotes, estimates and proposals: create a quote or an estimate for a customer. Priced, VAT-correct quotes from chat, and the yes turns into an invoice.",
+  "version": "0.22.6",
+  "description": "MCP server for quote-to-invoice conversion: create price quotes, estimates and proposals, then convert an accepted quote to an invoice. Priced, VAT-correct quotes from chat, and the yes turns into an invoice.",
   "settings": [
     {
       "name": "mcp.zovo.one token",
