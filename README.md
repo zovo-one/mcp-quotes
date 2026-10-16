@@ -2,7 +2,7 @@
 
 <!-- mirror-seo:start -->
 
-**MCP server for price quotes, estimates and proposals: create a quote or an estimate for a customer.** Priced, VAT-correct quotes from chat, and the yes turns into an invoice.
+**MCP server for quote-to-invoice conversion: create price quotes, estimates and proposals, then convert an accepted quote to an invoice.** Priced, VAT-correct quotes from chat, and the yes turns into an invoice.
 
 Works with Claude Desktop, Claude Code, Cursor and any Model Context Protocol client. Runs on your own machine, or hosted with no install.
 
